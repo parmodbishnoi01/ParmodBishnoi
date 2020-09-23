@@ -1,2 +1,2 @@
 # ParmodBishnoi
-Web Scientest
+Web scientist
